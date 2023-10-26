@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50e65cb8-8eec-4f2b-b896-7148e989783f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/hospital/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/HospitalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/HospitalApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/controller/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/controller/PatientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/entity/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/entity/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/repository/PatientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/repository/PatientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/src/main/java/group5/hospital/service/PatientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2XIsabvcFr0syL91wxDYM6vLd73" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jakubkuka/Desktop/school/Third semester/Sep3-Group5/proofOfConcept",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50e65cb8-8eec-4f2b-b896-7148e989783f" name="Changes" comment="" />
+      <created>1698327992599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698327992599</updated>
+      <workItem from="1698327993613" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
